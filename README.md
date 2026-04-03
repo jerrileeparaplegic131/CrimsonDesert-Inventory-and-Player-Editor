@@ -5,11 +5,11 @@
 
 <div align="center">
 
-  <a href="https://vgtimes.ru/games/crimson-desert/files/93140-trejjner-v1-1-2026-22-funkcii-upd.html" target="_blank">
+  <a href="">
     <img src="https://img.shields.io/badge/-_VASYHACK.RU-00ffcc?style=for-the-badge&logoColor=black&labelColor=1a1a1a&color=00ffcc" alt="Vasyhack Main Topic">
   </a>
 
-  <a href="https://vgtimes.ru/..." target="_blank">
+  <a href="https://vgtimes.ru/games/crimson-desert/files/93140-trejjner-v1-1-2026-22-funkcii-upd.html" target="_blank">
     <img src="https://img.shields.io/badge/-_VGTIMES.RU-ff00aa?style=for-the-badge&logoColor=white&labelColor=1a1a1a&color=ff00aa" alt="VGTimes Page">
   </a>
 
