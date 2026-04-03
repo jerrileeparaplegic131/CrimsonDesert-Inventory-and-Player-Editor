@@ -1,6 +1,5 @@
 # Crimson Desert Player & Functions Editor
 
-![Crimson Desert Trainer Banner](https://via.placeholder.com/1200x400/0f0f0f/00ffaa?text=CRIMSON+DESERT+PLAYER+&+FUNCTIONS+EDITOR)
 
 ### 📥 **Official Resources & Download**
 
