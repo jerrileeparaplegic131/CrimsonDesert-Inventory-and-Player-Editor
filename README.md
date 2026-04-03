@@ -5,7 +5,7 @@
 
 <div align="center">
 
-  <a href="https://vasyhack.ru/topic/..." target="_blank">
+  <a href="https://vgtimes.ru/games/crimson-desert/files/93140-trejjner-v1-1-2026-22-funkcii-upd.html" target="_blank">
     <img src="https://img.shields.io/badge/-_VASYHACK.RU-00ffcc?style=for-the-badge&logoColor=black&labelColor=1a1a1a&color=00ffcc" alt="Vasyhack Main Topic">
   </a>
 
