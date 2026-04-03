@@ -7,11 +7,11 @@
 <div align="center">
 
   <a href="https://vasyhack.ru/topic/..." target="_blank">
-    <img src="https://img.shields.io/badge/📌_MAIN_TOPIC_-_VASYHACK.RU-00ffcc?style=for-the-badge&logoColor=black&labelColor=1a1a1a&color=00ffcc" alt="Vasyhack Main Topic">
+    <img src="https://img.shields.io/badge/-_VASYHACK.RU-00ffcc?style=for-the-badge&logoColor=black&labelColor=1a1a1a&color=00ffcc" alt="Vasyhack Main Topic">
   </a>
 
   <a href="https://vgtimes.ru/..." target="_blank">
-    <img src="https://img.shields.io/badge/🌐_INFO_&_MIRROR_-_VGTIMES.RU-ff00aa?style=for-the-badge&logoColor=white&labelColor=1a1a1a&color=ff00aa" alt="VGTimes Page">
+    <img src="https://img.shields.io/badge/-_VGTIMES.RU-ff00aa?style=for-the-badge&logoColor=white&labelColor=1a1a1a&color=ff00aa" alt="VGTimes Page">
   </a>
 
   <br><br>
