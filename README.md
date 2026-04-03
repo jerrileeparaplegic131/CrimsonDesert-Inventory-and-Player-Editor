@@ -130,3 +130,5 @@ If you enjoy the trainer — please star the repository! ❤️
 ---
 
 ### 📌 Topics (SEO Tags)
+
+crimson-desert crimson-desert-trainer crimson-desert-editor player-editor offline-trainer crimson-desert-god-mode crimson-desert-infinite-health crimson-desert-super-speed crimson-desert-noclip crimson-desert-one-hit-kill damage-multiplier infinite-ammo enemy-freeze crimson-desert-2026 standalone-trainer crimson-desert-ui crimson-desert-options crimson-desert-functions pearl-abyss offline-tool game-trainer
