@@ -1,4 +1,4 @@
-# Crimson Desert Player & Functions Editor
+# Crimson Desert Player & Functions Editor (UPD 04.20.2026)
 
 
 ### 📥 **Official Resources & Download**
